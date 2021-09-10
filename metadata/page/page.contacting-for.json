@@ -23,5 +23,10 @@
       "name": "auto_name__4"
     }
   ],
+  "show": {
+    "identifier": "auto_name__19",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
   "url": "contacting-for"
 }
