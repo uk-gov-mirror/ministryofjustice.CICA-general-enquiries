@@ -3,5 +3,6 @@
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
   "name": "Contact the CICA",
-  "phase": "none"
+  "phase": "none",
+  "serviceEmailAddress": "general.enquiries@cica.gov.uk"
 }
